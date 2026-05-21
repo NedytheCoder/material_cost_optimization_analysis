@@ -1,0 +1,33 @@
+material,cost,unit,year,material_match_key,is_material_relevant
+Aluminum,2631.69583333333,($/mt),2025,aluminum,True
+"Coal, Australian",108.39083333333,($/mt),2025,coal_australian,True
+"Coal, South African",94.879625,($/mt),2025,coal_south_african,True
+Coconut oil,2480.21666666667,($/mt),2025,coconut_oil,True
+Copper,9947.305,($/mt),2025,copper,True
+"Crude oil, average",67.42536111111,($/bbl),2025,crude_oil_average,True
+"Crude oil, Brent",69.03525,($/bbl),2025,crude_oil_brent,True
+"Crude oil, Dubai",68.34833333333,($/bbl),2025,crude_oil_dubai,True
+"Crude oil, WTI",64.8925,($/bbl),2025,crude_oil_wti,True
+Gold,3441.50583333333,($/troy oz),2025,gold,True
+Groundnut oil,1666.08613434415,($/mt),2025,groundnut_oil,True
+"Iron ore, cfr spot",100.18166666667,($/dmtu),2025,iron_ore_cfr_spot,True
+Lead,1962.235,($/mt),2025,lead,True
+"Liquefied natural gas, Japan",12.03702512327,($/mmbtu),2025,liquefied_natural_gas_japan,True
+"Logs, Cameroon",395.39208333333,($/cubic meter),2025,logs_cameroon,True
+"Logs, Malaysian",199.10008427253,($/cubic meter),2025,logs_malaysian,True
+"Natural gas, Europe",11.96139454039,($/mmbtu),2025,natural_gas_europe,True
+Natural gas index,107.82727474869,(2010=100),2025,natural_gas_index,True
+"Natural gas, US",3.525225,($/mmbtu),2025,natural_gas_us,True
+Nickel,15162.1583333333,($/mt),2025,nickel,True
+Palm kernel oil,2093.33472512493,($/mt),2025,palm_kernel_oil,True
+Palm oil,1006.94790381154,($/mt),2025,palm_oil,True
+Phosphate rock,152.5,($/mt),2025,phosphate_rock,True
+Platinum,1278.29333333333,($/troy oz),2025,platinum,True
+"Rubber, RSS3",2.18389166667,($/kg),2025,rubber_rss3,True
+"Rubber, TSR20 **",1.76921666667,($/kg),2025,rubber_tsr20,True
+"Sawnwood, Cameroon",631.63897225996,($/cubic meter),2025,sawnwood_cameroon,True
+"Sawnwood, Malaysian",718.44170833333,($/cubic meter),2025,sawnwood_malaysian,True
+Silver,39.80466666667,($/troy oz),2025,silver,True
+Soybean oil,1139.55959163373,($/mt),2025,soybean_oil,True
+Tin,34058.8358333333,($/mt),2025,tin,True
+Zinc,2867.52833333333,($/mt),2025,zinc,True

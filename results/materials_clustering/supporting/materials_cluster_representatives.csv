@@ -1,0 +1,26 @@
+row_index,material_id,formula_pretty,formula_match_key,elements,elements_list,material_family_key,material_family_match_key,is_stable,is_metal,symmetry,cluster_label,distance_to_cluster_center
+2085,mp-561502,Ba8B5N10F,ba8b5n10f,"['B', 'Ba', 'F', 'N']","['B', 'Ba', 'F', 'N']",B_Ba_F_N,b_ba_f_n,True,False,Triclinic,0,0.649943604681194
+4266,mp-557926,CdAs2(XeF5)4,cdas2_xef5_4,"['As', 'Cd', 'F', 'Xe']","['As', 'Cd', 'F', 'Xe']",As_Cd_F_Xe,as_cd_f_xe,True,False,Orthorhombic,0,0.8656226744351433
+25156,mp-1205033,Sb3Au(XeF9)2,sb3au_xef9_2,"['Au', 'F', 'Sb', 'Xe']","['Au', 'F', 'Sb', 'Xe']",Au_F_Sb_Xe,au_f_sb_xe,True,False,Monoclinic,0,0.903369946324137
+2608,mp-554796,BaSc3AgS6,basc3ags6,"['Ag', 'Ba', 'S', 'Sc']","['Ag', 'Ba', 'S', 'Sc']",Ag_Ba_S_Sc,ag_ba_s_sc,True,False,Orthorhombic,0,0.9427396304873861
+17890,mp-555546,MgAs2(XeF5)4,mgas2_xef5_4,"['As', 'F', 'Mg', 'Xe']","['As', 'F', 'Mg', 'Xe']",As_F_Mg_Xe,as_f_mg_xe,True,False,Orthorhombic,0,1.0115927389850212
+2683,mp-27499,BaTeS3,bates3,"['Ba', 'S', 'Te']","['Ba', 'S', 'Te']",Ba_S_Te,ba_s_te,True,False,Orthorhombic,1,0.49945475153520436
+18598,mp-1221539,MoBr3O,mobr3o,"['Br', 'Mo', 'O']","['Br', 'Mo', 'O']",Br_Mo_O,br_mo_o,True,False,Monoclinic,1,0.5074618703557733
+6603,mp-573358,CsBSe3,csbse3,"['B', 'Cs', 'Se']","['B', 'Cs', 'Se']",B_Cs_Se,b_cs_se,True,False,Monoclinic,1,0.5636368137353459
+20709,mp-23498,NbSeBr3,nbsebr3,"['Br', 'Nb', 'Se']","['Br', 'Nb', 'Se']",Br_Nb_Se,br_nb_se,True,False,Monoclinic,1,0.5859491884383992
+2556,mp-11008,BaPSe3,bapse3,"['Ba', 'P', 'Se']","['Ba', 'P', 'Se']",Ba_P_Se,ba_p_se,True,False,Monoclinic,1,0.5910427587697278
+2465,mp-555338,BaMo2(PO6)2,bamo2_po6_2,"['Ba', 'Mo', 'O', 'P']","['Ba', 'Mo', 'O', 'P']",Ba_Mo_O_P,ba_mo_o_p,True,False,Monoclinic,2,0.38815298752185545
+18127,mp-561538,MgVBiO5,mgvbio5,"['Bi', 'Mg', 'O', 'V']","['Bi', 'Mg', 'O', 'V']",Bi_Mg_O_V,bi_mg_o_v,True,False,Monoclinic,2,0.4083109820099965
+24802,mp-1179711,RbSn2(PO4)3,rbsn2_po4_3,"['O', 'P', 'Rb', 'Sn']","['O', 'P', 'Rb', 'Sn']",O_P_Rb_Sn,o_p_rb_sn,True,False,Trigonal,2,0.42131432146343983
+16777,mp-758098,LiP3(WO6)2,lip3_wo6_2,"['Li', 'O', 'P', 'W']","['Li', 'O', 'P', 'W']",Li_O_P_W,li_o_p_w,True,False,Triclinic,2,0.42880191943605167
+20955,mp-560590,Nd2Mo(SeO5)2,nd2mo_seo5_2,"['Mo', 'Nd', 'O', 'Se']","['Mo', 'Nd', 'O', 'Se']",Mo_Nd_O_Se,mo_nd_o_se,True,False,Triclinic,2,0.4373385639523633
+26535,mp-21853,SmIn2Ir,smin2ir,"['In', 'Ir', 'Sm']","['In', 'Ir', 'Sm']",In_Ir_Sm,in_ir_sm,True,True,Orthorhombic,3,0.6619880849603857
+32174,mp-1216085,Y3(ZnAu2)2,y3_znau2_2,"['Au', 'Y', 'Zn']","['Au', 'Y', 'Zn']",Au_Y_Zn,au_y_zn,True,True,Orthorhombic,3,0.6674294934272637
+21388,mp-20914,NdIn2Ir,ndin2ir,"['In', 'Ir', 'Nd']","['In', 'Ir', 'Nd']",In_Ir_Nd,in_ir_nd,True,True,Orthorhombic,3,0.6830546612394833
+32676,mp-11547,YTlPd,ytlpd,"['Pd', 'Tl', 'Y']","['Pd', 'Tl', 'Y']",Pd_Tl_Y,pd_tl_y,True,True,Hexagonal,3,0.6844606945011328
+28606,mp-1217701,Tb2CuPt,tb2cupt,"['Cu', 'Pt', 'Tb']","['Cu', 'Pt', 'Tb']",Cu_Pt_Tb,cu_pt_tb,True,True,Orthorhombic,3,0.692766621961495
+8502,mp-1212880,Er3Fe2Si3,er3fe2si3,"['Er', 'Fe', 'Si']","['Er', 'Fe', 'Si']",Er_Fe_Si,er_fe_si,True,True,Orthorhombic,4,0.26675305213626127
+33548,mp-1215378,Zr4Ni3As8,zr4ni3as8,"['As', 'Ni', 'Zr']","['As', 'Ni', 'Zr']",As_Ni_Zr,as_ni_zr,True,True,Tetragonal,4,0.2884863121179637
+32486,mp-1102458,YGaRh,ygarh,"['Ga', 'Rh', 'Y']","['Ga', 'Rh', 'Y']",Ga_Rh_Y,ga_rh_y,True,True,Orthorhombic,4,0.29260731368301096
+33771,mp-1102693,ZrGeMo,zrgemo,"['Ge', 'Mo', 'Zr']","['Ge', 'Mo', 'Zr']",Ge_Mo_Zr,ge_mo_zr,True,True,Orthorhombic,4,0.29637206914299025
+8497,mp-568196,Er3CoSi3,er3cosi3,"['Co', 'Er', 'Si']","['Co', 'Er', 'Si']",Co_Er_Si,co_er_si,True,True,Monoclinic,4,0.29844475727550696

@@ -1,0 +1,2 @@
+case_name,CPV,TYPE_OF_CONTRACT,VALUE_EURO,TITLE,english_title,material_context,target_clusters,MAIN_ACTIVITY,TOP_TYPE,DISPATCH_YEAR,DISPATCH_MONTH,DISPATCH_QUARTER
+Copper-Core PVC Power Cables,31320000,U,185548.74,"Earth cables, Cu core, 0.6/1 kV - insulation and PVC jacket","Underground cables, copper core, 0.6/1 kV - PVC insulation and sheath",Electrical supply case focused on copper-core power cables with PVC insulation. This gives a clear conductor material and insulation context for comparing candidate alternatives.,"[3, 4]",Electricity,NIC,2023,1,1

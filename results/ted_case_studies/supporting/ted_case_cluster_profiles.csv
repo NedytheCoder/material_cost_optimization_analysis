@@ -1,0 +1,6 @@
+cluster_label,top_feature_1,top_feature_2,top_feature_3,representative_materials
+0,volume,nsites,nelements,"Ba8B5N10F, CdAs2(XeF5)4, Sb3Au(XeF9)2, BaSc3AgS6, MgAs2(XeF5)4"
+1,density_atomic,is_metal_flag,density,"BaTeS3, MoBr3O, CsBSe3, NbSeBr3, BaPSe3"
+2,formation_energy_per_atom,band_gap,density_atomic,"BaMo2(PO6)2, MgVBiO5, RbSn2(PO4)3, LiP3(WO6)2, Nd2Mo(SeO5)2"
+3,energy_per_atom,density,nelements,"SmIn2Ir, Y3(ZnAu2)2, NdIn2Ir, YTlPd, Tb2CuPt"
+4,is_metal_flag,band_gap,formation_energy_per_atom,"Er3Fe2Si3, Zr4Ni3As8, YGaRh, ZrGeMo, Er3CoSi3"
